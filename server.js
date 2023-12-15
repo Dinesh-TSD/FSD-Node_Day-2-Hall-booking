@@ -32,6 +32,9 @@ app.get("/", (req, res) => {
       <a href="/customer-detail/dinesh"  style="text-decoration:none;color:white;">Customers History</a></p>
       </div>
       </div>
+      <h1 style="background-color:black; color:white; text-align: center; height:40px; padding-top:7px; font-size:25px;">
+        Developed by Dinesh MERN Stack Developer...
+    </h1>
       `)
 })
 
